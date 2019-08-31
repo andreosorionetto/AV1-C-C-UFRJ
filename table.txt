@@ -1,0 +1,54 @@
+NOME                                              DRE                      TELEFONE                    NASCIMENTO
+Bjarne Stroustrup                                 117023901                981144278                   15600101
+Napoleon Bonaparte                                117171717                996386767                   17800909
+Michael Faraday                                   115148390                981156732                   17910909
+Ada Augusta King                                  119090909                981124454                   18150101
+James Clerk Maxwell                               117898342                898976666                   18310404
+Sigmund Schlomo Freud                             113083908                981145555                   18560909
+Nikola Tesla                                      117872984                989898989                   18560923
+Arthur Schopenhauer                               117009090                981144444                   18600909
+Mohandas Karamchand Gandhi                        116190943                981225634                   18690909
+Simone Lucie-Ernestine-Marie Bertrand De Beauvoir 116743780                999983788                   19001509
+Grace Murray Hopper                               118084390                999823455                   19061209
+Richard Philips Feynman                           176903909                981145634                   19189038
+Walter White                                      119838009                987342879                   19500421
+Srinivasa Aiyangar Ramanujan                      113148909                998597899                   19600809
+James Gosling                                     113084329                982978328                   19603348
+Guido van Rossum                                  116789090                981167234                   19610230
+Martin Luther King Jr                             118009342                987878721                   19660909
+Juan Carlos  Mateus Sanchez                       118184389                981153258                   19800120
+Jean-Paul Charles Aymard Sartre                   116734289                987579347                   19830130
+Gustavo Franco                                    117645378                999866478                   19850404
+Janet Louise Yellen                               119048037                998578324                   19870909
+Carlos De Almeida Silva                           114158055                980978934                   19885408
+Anatoli Leontiev                                  117787388                987832704                   19900101
+Antonion Guilherme Borges                         118032578                996380040                   19900151
+Alan Mathison Turing                              118985429                998674599                   19900403
+Felipe Acker                                      118034152                971342953                   19900506
+Isaac Newton                                      116343890                953798985                   19900903
+Rolci Cipolatti                                   115085390                989898989                   19900907
+John Forbes Nash Jr                               119090937                981145298                   19900909
+Friedrich Wilhelm Nietzsche                       113278954                981145632                   19901009
+Lilian Kawakami Carvalho                          116743790                980808943                   19901025
+Aftab Pande                                       118099238                918181881                   19901209
+Walter Issamu Suemitsu                            117023478                981253788                   19901209
+Antonio Lopes de Souza                            118308080                981187329                   19901223
+Gregorio Malajovich                               118090909                981156348                   19910101
+Milton Ramos Ramirez                              117154345                999823456                   19910305
+Thomas Robert Malthus                             116289314                999674807                   19940708
+Rene Descartes                                    116748090                999678345                   19960309
+Rosalind Elsie Franklin                           116788996                986479021                   19960729
+John Maynard Keynes                               114143890                986749978                   19960809
+Alex de Paula Barros                              118067859                996289935                   19961204
+Gabriel Franco Mendes                             118035762                996380040                   19970321
+Edson Hirokazu Watanabe                           116134809                989719843                   19970909
+Adam Smith                                        113189043                983458978                   19980101
+Carl Friedrich Gauss                              117021378                999677423                   19980102
+Milton Friedman                                   115186999                981145798                   19980203
+Marie Sklodowska Curie                            118543678                981145267                   19980808
+Elkin Ferney Rodriguez Velandia                   113567430                981256387                   19980808
+Jorge Rehem Braga                                 117123459                986775432                   19981204
+Lucas Tramont Silva                               115379898                933671697                   19990703
+Saul Goodman                                      118773289                981142563                   19991010
+Rodrigo Bagdadi Benoliel                          118056378                945434565                   19991216
+Margaret Hilda Thatcher                           117043899                999789987                   20000908
